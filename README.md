@@ -11,7 +11,7 @@ I'm currently studying a degree in Science at the universities **Universidad Aut
 
 - 📫 How to reach me: **pablo.gradolph@gmail.com** or **+34 606157414**
 
-- 📄 Know about my experiences in the file "PabloGradolphOliva-CVSpanish.pdf" that you can find in this repository.
+- 📄 Know about my experiences in the files **"PabloGradolphOliva-CVSpanish.pdf"** or **"PabloGradolphOliva-CVEnglish.pdf"** that you can find in this repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
