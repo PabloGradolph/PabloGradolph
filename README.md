@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pablo Gradolph</h1>
 <h3 align="center">A future software developer</h3>
 
+I'm currently studying a degree in Science at the universities **Universidad Autónoma de Madrid, Universidad Autónoma de Barcelona and Universidad Carlos III de Madrid,** where I have discovered my passion for mathematics and Programming. I have a broad interest in learning about programming, computing and software development. When I finish university I will be able to dedicate much more time to learning all this and I am sure that in the future it will be my profession.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+<h3 align="left">Additional Information:</h3>
+
 - 🌱 I’m currently learning **web development in OpenBootcamp's "Full Stack" learning path.**
 
-- 📫 How to reach me: **pablo.gradolph@gmail.com**
+- 📫 How to reach me: **pablo.gradolph@gmail.com** or **606157414**
 
 - 📄 Know about my experiences in the file "PabloGradolphOliva-CVSpanish.pdf" that you can find in this repository.
 
