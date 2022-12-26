@@ -9,7 +9,7 @@ I'm currently studying a degree in Science at the universities **Universidad Aut
 
 - 🌱 I’m currently learning **web development in OpenBootcamp's "Full Stack" learning path.**
 
-- 📫 How to reach me: **pablo.gradolph@gmail.com** or **606157414**
+- 📫 How to reach me: **pablo.gradolph@gmail.com** or **+34 606157414**
 
 - 📄 Know about my experiences in the file "PabloGradolphOliva-CVSpanish.pdf" that you can find in this repository.
 
