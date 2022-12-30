@@ -9,8 +9,6 @@ I'm currently studying a degree in Science at the universities **Universidad Aut
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablogradolph&label=Profile%20views&color=0e75b6&style=flat" alt="pablogradolph" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pablogradolph" target="blank"><img src="https://img.shields.io/twitter/follow/pablogradolph?logo=twitter&style=for-the-badge" alt="pablogradolph" /></a> </p>
-
 - 🌱 I’m currently learning **web development in OpenBootcamp's "Full Stack" learning path.**
 
 - 📫 How to reach me **pablo.gradolph@gmail.com** or **+34 606157414**
