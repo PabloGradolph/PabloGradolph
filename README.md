@@ -3,6 +3,7 @@
 
 I'm currently studying a degree in Science at the universities **Universidad Autónoma de Madrid, Universidad Autónoma de Barcelona and Universidad Carlos III de Madrid,** where I have discovered my passion for Mathematics and Programming. I have a broad interest in learning about programming, computing and software development. When I finish university I will be able to dedicate much more time to learning all this and I am sure that in the future it will be my profession.
 
+Link to university degree: <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablogradolph" height="30" width="40" /></a>
 - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 <h3 align="left">Additional Information:</h3>
@@ -11,7 +12,9 @@ I'm currently studying a degree in Science at the universities **Universidad Aut
 
 - 🌱 I’m currently learning **web development in OpenBootcamp's "Full Stack" learning path.**
 
-- 📫 How to reach me **pablo.gradolph@gmail.com** or **+34 606157414**
+- 📫 How to reach me: 
+    - 📨 **pablo.gradolph@gmail.com** 
+    - 📞 **+34 606157414**
 
 - 📄 Know about my experiences in the files **"PabloGradolphOliva-CVSpanish.pdf"** or **"PabloGradolphOliva-CVEnglish.pdf"** that you can find in this repository.
 
