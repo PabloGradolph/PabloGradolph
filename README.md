@@ -3,7 +3,12 @@
 
 I'm currently studying a degree in Science at the universities **Universidad Autónoma de Madrid, Universidad Autónoma de Barcelona and Universidad Carlos III de Madrid,** where I have discovered my passion for Mathematics and Programming. I have a broad interest in learning about programming, computing and software development. When I finish university I will be able to dedicate much more time to learning all this and I am sure that in the future it will be my profession.
 
-Link to university degree: <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablogradolph" height="30" width="40" /></a>
+🧑‍🎓 Links to university degree:  
+
+ - *Universidad Carlos III de Madrid:* This is the university where I am finishing my studies and where I am majoring in programming.
+<a href="https://www.uc3m.es/grado/ciencias" target="blank"><img align="center" src="/img/uc3m.jpg" alt="UC3M" height="70" width="100" /></a>
+ - *Universidad Autónoma de Madrid:* <p> </p><a href="https://www.uam.es/Ciencias/Grado-en-Ciencias/1446797808072.htm" target="blank"><img align="center" src="/img/uam.jpg" alt="UAM" height="70" width="100" /></a>
+ - *Universidad Autónoma de Barcelona:*<p> </p><a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ciencias-uab/uam/uc3m-1216708258897.html?param1=1345806163631" target="blank"><img align="center" src="/img/uab.png" alt="UAB" height="70" width="100" /></a>
 - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 <h3 align="left">Additional Information:</h3>
