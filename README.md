@@ -7,10 +7,10 @@ I'm currently studying a degree in Science at the universities **Universidad Aut
 
  - *Universidad Carlos III de Madrid:* This is the university where I am finishing my studies and where I am majoring in programming.
 
-<a href="https://www.uc3m.es/grado/ciencias" target="blank"><img align="center" src="/img/uc3m.jpg" alt="UC3M" height="70" width="100" /></a>
+<a href="https://www.uc3m.es/grado/ciencias" target="_blank"><img align="center" src="/img/uc3m.jpg" alt="UC3M" height="70" width="100" /></a>
  - Links to the other two universities: 
 
-<a href="https://www.uam.es/Ciencias/Grado-en-Ciencias/1446797808072.htm" target="blank"><img align="center" src="/img/uam.jpg" alt="UAM" height="70" width="100" /></a><a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ciencias-uab/uam/uc3m-1216708258897.html?param1=1345806163631" target="blank"><img align="center" src="/img/uab.png" alt="UAB" height="70" width="100" /></a>
+<a href="https://www.uam.es/Ciencias/Grado-en-Ciencias/1446797808072.htm" target="_blank"><img align="center" src="/img/uam.jpg" alt="UAM" height="70" width="100" /></a><a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ciencias-uab/uam/uc3m-1216708258897.html?param1=1345806163631" target="_blank"><img align="center" src="/img/uab.png" alt="UAB" height="70" width="100" /></a>
 - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 <h3 align="left">Additional Information:</h3>
