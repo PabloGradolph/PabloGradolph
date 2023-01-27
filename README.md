@@ -6,6 +6,7 @@ I'm currently studying a degree in Science at the universities **Universidad Aut
 🧑‍🎓 Links to university degree:  
 
  - *Universidad Carlos III de Madrid:* This is the university where I am finishing my studies and where I am majoring in programming.
+
 <a href="https://www.uc3m.es/grado/ciencias" target="blank"><img align="center" src="/img/uc3m.jpg" alt="UC3M" height="70" width="100" /></a>
  - Links to the other two universities: 
 
