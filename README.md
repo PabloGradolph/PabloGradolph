@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pablo Gradolph</h1>
-<h3 align="center">A future software developer 🧑‍💻</h3>
+<h3 align="center">A junior software developer 🧑‍💻</h3>
 
-I'm currently studying a degree in Science at the universities **Universidad Autónoma de Madrid, Universidad Autónoma de Barcelona and Universidad Carlos III de Madrid,** where I have discovered my passion for Mathematics and Programming. I have a broad interest in learning about programming, computing and software development. When I finish university I will be able to dedicate much more time to learning all this and I am sure that in the future it will be my profession.
+I have a degree in Science (a joint degree between Universidad Autónoma de Madrid, Universidad Autónoma de Barcelona and Universidad Carlos III de Madrid). In this degree I have discovered my passion for mathematics and programming. Currently, I am pursuing a Master's degree in Data Science and Computer Engineering at the University of Granada, with a specialization in Data Science. My professional goal is to continue specializing in areas such as artificial intelligence and data science, and I continue to actively train myself in computing, development and programming in order to be able to apply my knowledge in innovative and high impact projects in the future.
 
-🧑‍🎓 Links to university degree:  
+🧑‍🎓 Links to university degree and master:  
 
+ - *Universidad de Granada:* This is the university where I am doing the Master in Data Science and Computer Engineering.
+
+<a href="https://masteres.ugr.es/datcom/docencia/plan-estudios" target="_blank"><img align="center" src="/img/UGR.png" alt="UGR" height="70" width="100" /></a>
+   
  - *Universidad Carlos III de Madrid:* This is the university where I am finishing my studies and where I am majoring in programming.
 
 <a href="https://www.uc3m.es/grado/ciencias" target="_blank"><img align="center" src="/img/uc3m.jpg" alt="UC3M" height="70" width="100" /></a>
